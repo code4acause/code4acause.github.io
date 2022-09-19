@@ -4,11 +4,11 @@ We want to bring awareness and change to our community through coding and **hack
 We aim to participate in multiple hackathons throughout the year. We will learn basic **low-code** hackathon skills and discuss potential social hacking projects during our weekly meet.
  
 ## When and where do we meet
-Meetings will be held on Tuesdays, mostly virtually. However, we will have in-person meetings monthly. We will either discuss a hackathon skill and learn it together, or discuss a social issue (such as education, health, climate change, inequality, etc) and how to solve it with technologies.
+Meetings will be held weekly on an agreed upon time, mostly virtual. However, we will have in-person meetings monthly on Tuesdays. We will either discuss a hackathon skill and learn it together, or discuss a social issue (such as education, health, climate change, inequality, etc) and how to solve it with technologies.
  
 Please contact Darren Weng <dw1001528@students.westportps.org> or Gabriel Weng <gw1001530@students.westportps.org> to be added to the newsletter distribution and Discord server.
  
-Date/Time : 3:30 pm virtually on Tuesdays.
+Date/Time : after school monthly on Tuesdays; weekly virtual meets
 
 Discord: [Join](https://discord.gg/JzjhZKVY3K)
 
