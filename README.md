@@ -23,13 +23,13 @@ In our first year, we have managed to
 - Publish a weekly newsletter that highlights the social issues and different technologies involved in hackathons
 - Win the Most Innovative Award in PrideHack II with solutions that use Web3 and DAOs on blockchains to empower grassroots advocacy to change the world to be more inclusive. to make LGBTQ+ activism more accessible, equitable, and ultimately more impactful.
 - Win 1st Place at Lockheed Martin Code Quest 2022 Advanced Division.
-- Two members also interned at Harvard’s Coronavirus Visualization Team in the summer, and we learned some data science and visualization tools (pandas, streamlit, etc) and techniques. We plan to use what we learned for most of the projects next year.
+- Two members also interned at Harvard’s Coronavirus Visualization Team in the summer.
  
 ## What we plan to do
  
 This year, we plan to:
  
-- Continue to publish a weekly or bi-weekly newsletters.
+- Continue to publish a bi-weekly newsletters.
 - Recruit new members.
 - Continue to host weekly virtual meets.
 - Each month, we will focus on one project that addresses an social issue, currently we have the following areas in mind:
