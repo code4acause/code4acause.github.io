@@ -4,7 +4,7 @@ We want to bring awareness and change to our community through coding and **hack
 We aim to participate in multiple hackathons throughout the year. We will learn basic **low-code** hackathon skills and discuss potential social hacking projects during our weekly meet.
  
 ## When and where do we meet
-Meetings will be held weekly on an agreed upon time, mostly virtual. However, we will have in-person meetings monthly on Tuesdays. We will either discuss a hackathon skill and learn it together, or discuss a social issue (such as education, health, climate change, inequality, etc) and how to solve it with technologies.
+Meetings will be held weekly on an agreed upon time, mostly virtual. However, we will have in-person meetings on the third Tuesday of every month. We will either discuss a hackathon skill and learn it together, or discuss a social issue (such as education, health, climate change, inequality, etc) and how to solve it with technologies.
  
 Please contact Darren Weng <dw1001528@students.westportps.org> or Gabriel Weng <gw1001530@students.westportps.org> to be added to the newsletter distribution and Discord server.
  
@@ -16,9 +16,13 @@ Teacher : Mr Shepro
 
 Newsletter: [Subscribe](https://lb.benchmarkemail.com//listbuilder/signupnew?5hjt8JVutE5neiOpRQsKVf5pwVnAjsSIni71Jey0dd3tO5iNRn8gS049TyW7spdJ)
 
+## Club Achievements this year
+- Won Third Place and Best Domain Name at [RoboHacks 2](https://robohacks2.devpost.com/) with our project [Chiron](https://devpost.com/software/chiron-bxvirh).
+- Won First Place and Best Domain Name at [ROBOHackIT 2022](https://robohackit.devpost.com/) with our project [CiceroAI](https://devpost.com/software/ciceroai?ref_content=my-projects-tab&ref_feature=my_projects).
+
 ## What we did
  
-In our first year, we have managed to
+In our first year, we managed to
  
 - Publish a weekly newsletter that highlights the social issues and different technologies involved in hackathons
 - Win the Most Innovative Award in PrideHack II with solutions that use Web3 and DAOs on blockchains to empower grassroots advocacy to change the world to be more inclusive. to make LGBTQ+ activism more accessible, equitable, and ultimately more impactful.
