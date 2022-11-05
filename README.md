@@ -6,7 +6,7 @@ We aim to participate in multiple hackathons throughout the year. We will learn 
 ## When and where do we meet
 Meetings will be held weekly on an agreed upon time, mostly virtual. However, we will have in-person meetings on the third Tuesday of every month. We will either discuss a hackathon skill and learn it together, or discuss a social issue (such as education, health, climate change, inequality, etc) and how to solve it with technologies.
  
-Please contact [Darren Weng](dw1001528@students.westportps.org) or [Gabriel Weng](gw1001530@students.westportps.org) to be added to the newsletter distribution and Discord server.
+Please contact [Darren Weng](mailto:dw1001528@students.westportps.org) or [Gabriel Weng](mailto:gw1001530@students.westportps.org) to be added to the newsletter distribution and Discord server.
  
 Date/Time : after school monthly on Tuesdays; weekly virtual meets
 
