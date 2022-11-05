@@ -6,7 +6,7 @@ We aim to participate in multiple hackathons throughout the year. We will learn 
 ## When and where do we meet
 Meetings will be held weekly on an agreed upon time, mostly virtual. However, we will have in-person meetings on the third Tuesday of every month. We will either discuss a hackathon skill and learn it together, or discuss a social issue (such as education, health, climate change, inequality, etc) and how to solve it with technologies.
  
-Please contact Darren Weng <dw1001528@students.westportps.org> or Gabriel Weng <gw1001530@students.westportps.org> to be added to the newsletter distribution and Discord server.
+Please contact [Darren Weng](dw1001528@students.westportps.org) or [Gabriel Weng](gw1001530@students.westportps.org) to be added to the newsletter distribution and Discord server.
  
 Date/Time : after school monthly on Tuesdays; weekly virtual meets
 
@@ -17,8 +17,8 @@ Teacher : Mr Shepro
 Newsletter: [Subscribe](https://lb.benchmarkemail.com//listbuilder/signupnew?5hjt8JVutE5neiOpRQsKVf5pwVnAjsSIni71Jey0dd3tO5iNRn8gS049TyW7spdJ)
 
 ## Club Achievements this year
-- Won Third Place and Best Domain Name at [RoboHacks 2](https://robohacks2.devpost.com/) with our project [Chiron](https://devpost.com/software/chiron-bxvirh).
-- Won First Place and Best Domain Name at [ROBOHackIT 2022](https://robohackit.devpost.com/) with our project [CiceroAI](https://devpost.com/software/ciceroai?ref_content=my-projects-tab&ref_feature=my_projects).
+- Won Third Place at [RoboHacks 2](https://robohacks2.devpost.com/) with our project [Chiron](https://devpost.com/software/chiron-bxvirh).
+- Won First Place at [ROBOHackIT 2022](https://robohackit.devpost.com/) with our project [CiceroAI](https://devpost.com/software/ciceroai?ref_content=my-projects-tab&ref_feature=my_projects).
 
 ## What we did
  
