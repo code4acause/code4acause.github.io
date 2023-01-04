@@ -16,9 +16,10 @@ Teacher : Mr Shepro
 
 Newsletter: [Subscribe](https://lb.benchmarkemail.com//listbuilder/signupnew?5hjt8JVutE5neiOpRQsKVf5pwVnAjsSIni71Jey0dd3tO5iNRn8gS049TyW7spdJ)
 
-## Club Achievements this year
-- Won Third Place at [RoboHacks 2](https://robohacks2.devpost.com/) with our project [Chiron](https://devpost.com/software/chiron-bxvirh).
-- Won First Place at [ROBOHackIT 2022](https://robohackit.devpost.com/) with our project [CiceroAI](https://devpost.com/software/ciceroai?ref_content=my-projects-tab&ref_feature=my_projects).
+## Club Achievements this school year
+- Won Third Place at [RoboHacks 2](https://robohacks2.devpost.com/) with [Chiron](https://devpost.com/software/chiron-bxvirh).
+- Won First Place at [ROBOHackIT 2022](https://robohackit.devpost.com/) with [CiceroAI](https://devpost.com/software/ciceroai).
+- Won First Place at [MetroHacks 2022](https://metrohacks-2022.devpost.com/) with [Aesculapius](https://devpost.com/software/aesculapius), a Healthcare chatbot.
 
 ## What we did
  
