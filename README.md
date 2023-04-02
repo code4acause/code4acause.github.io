@@ -35,6 +35,7 @@ In our first year, we managed to
 This year, we plan to:
  
 - Continue to publish a bi-weekly newsletters.
+- Compete at Lockheed Martin Code Quest 2023.
 - Recruit new members.
 - Continue to host weekly virtual meets.
 - Each month, we will focus on one project that addresses an social issue, currently we have the following areas in mind:
